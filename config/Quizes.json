@@ -1,0 +1,184 @@
+﻿{
+  "quizzes": [
+    {
+      "category": "Science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": [ "Au", "Ag", "Fe", "Pb" ],
+          "answer": "Au"
+        },
+        {
+          "question": "What is the powerhouse of the cell?",
+          "options": [ "Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum" ],
+          "answer": "Mitochondria"
+        },
+        {
+          "question": "What planet is the largest in the solar system?",
+          "options": [ "Earth", "Saturn", "Jupiter", "Neptune" ],
+          "answer": "Jupiter"
+        },
+        {
+          "question": "What is the freezing point of water in Celsius?",
+          "options": [ "0", "32", "-1", "100" ],
+          "answer": "0"
+        },
+        {
+          "question": "What is the human body's largest organ?",
+          "options": [ "Heart", "Skin", "Liver", "Brain" ],
+          "answer": "Skin"
+        }
+      ]
+    },
+    {
+      "category": "History",
+      "questions": [
+        {
+          "question": "Who wrote the Declaration of Independence?",
+          "options": [ "Benjamin Franklin", "George Washington", "Thomas Jefferson", "John Adams" ],
+          "answer": "Thomas Jefferson"
+        },
+        {
+          "question": "What year did the Titanic sink?",
+          "options": [ "1912", "1905", "1920", "1918" ],
+          "answer": "1912"
+        },
+        {
+          "question": "Which war was fought between the North and South regions in the United States?",
+          "options": [ "World War I", "Civil War", "Revolutionary War", "Vietnam War" ],
+          "answer": "Civil War"
+        },
+        {
+          "question": "Who was the first emperor of Rome?",
+          "options": [ "Julius Caesar", "Nero", "Augustus", "Caligula" ],
+          "answer": "Augustus"
+        },
+        {
+          "question": "In which year did the Berlin Wall fall?",
+          "options": [ "1989", "1985", "1991", "1975" ],
+          "answer": "1989"
+        }
+      ]
+    },
+    {
+      "category": "Geography",
+      "questions": [
+        {
+          "question": "What is the capital of France?",
+          "options": [ "Paris", "Madrid", "Berlin", "Rome" ],
+          "answer": "Paris"
+        },
+        {
+          "question": "Which country has the most natural lakes?",
+          "options": [ "Canada", "Russia", "India", "Brazil" ],
+          "answer": "Canada"
+        },
+        {
+          "question": "Which continent is the largest by land area?",
+          "options": [ "Africa", "Asia", "North America", "Europe" ],
+          "answer": "Asia"
+        },
+        {
+          "question": "What river is the longest in the world?",
+          "options": [ "Nile", "Amazon", "Yangtze", "Mississippi" ],
+          "answer": "Nile"
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "options": [ "Monaco", "Vatican City", "Liechtenstein", "San Marino" ],
+          "answer": "Vatican City"
+        }
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "questions": [
+        {
+          "question": "Who played Jack in the movie 'Titanic'?",
+          "options": [ "Brad Pitt", "Johnny Depp", "Leonardo DiCaprio", "Tom Cruise" ],
+          "answer": "Leonardo DiCaprio"
+        },
+        {
+          "question": "Which video game franchise features characters like Master Chief?",
+          "options": [ "Call of Duty", "Halo", "Fortnite", "Destiny" ],
+          "answer": "Halo"
+        },
+        {
+          "question": "What is the name of the protagonist in the movie series 'The Matrix'?",
+          "options": [ "Neo", "Morpheus", "Trinity", "Smith" ],
+          "answer": "Neo"
+        },
+        {
+          "question": "Which artist is known for the album 'Thriller'?",
+          "options": [ "Prince", "Michael Jackson", "Elvis Presley", "Madonna" ],
+          "answer": "Michael Jackson"
+        },
+        {
+          "question": "Which TV series is about the Stark family?",
+          "options": [ "Breaking Bad", "Game of Thrones", "Vikings", "The Witcher" ],
+          "answer": "Game of Thrones"
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "questions": [
+        {
+          "question": "How many players are there on a soccer team?",
+          "options": [ "9", "10", "11", "12" ],
+          "answer": "11"
+        },
+        {
+          "question": "Who holds the record for the most home runs in a single MLB season?",
+          "options": [ "Babe Ruth", "Barry Bonds", "Hank Aaron", "Mark McGwire" ],
+          "answer": "Barry Bonds"
+        },
+        {
+          "question": "What is the maximum score in a single frame of bowling?",
+          "options": [ "100", "300", "200", "150" ],
+          "answer": "300"
+        },
+        {
+          "question": "In tennis, what is the term for a score of zero?",
+          "options": [ "Love", "Null", "Ace", "Deuce" ],
+          "answer": "Love"
+        },
+        {
+          "question": "What country hosted the 2016 Summer Olympics?",
+          "options": [ "China", "Brazil", "United Kingdom", "Russia" ],
+          "answer": "Brazil"
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "questions": [
+        {
+          "question": "Who is known as the father of the computer?",
+          "options": [ "Charles Babbage", "Alan Turing", "Thomas Edison", "Tim Berners-Lee" ],
+          "answer": "Charles Babbage"
+        },
+        {
+          "question": "What does 'HTTP' stand for?",
+          "options": [ "Hypertext Transfer Protocol", "Hyper Transfer Text Protocol", "High Transfer Text Protocol", "Hypertext Translate Protocol" ],
+          "answer": "Hypertext Transfer Protocol"
+        },
+        {
+          "question": "What year was the first iPhone released?",
+          "options": [ "2005", "2007", "2010", "2008" ],
+          "answer": "2007"
+        },
+        {
+          "question": "What programming language is known as the language of the web?",
+          "options": [ "Java", "Python", "JavaScript", "C++" ],
+          "answer": "JavaScript"
+        },
+        {
+          "question": "What does 'RAM' stand for?",
+          "options": [ "Random Access Memory", "Read Access Memory", "Read And Modify", "Random Allocation Memory" ],
+          "answer": "Random Access Memory"
+        }
+      ]
+    }
+  ]
+}
